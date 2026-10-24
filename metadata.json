@@ -1,0 +1,6 @@
+{
+  "name": "Ultimate Financial Tracker",
+  "description": "A 7-sheet interconnected financial command center with smart shorthand entry, dynamic category % allocation, 3-tier savings vault, dual loan ledger, and 12-month matrix.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
